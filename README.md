@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Beatriz Monteiro.
 
-<!--
-**beatrizmonteirodv/beatrizmonteirodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+📚 1st semester – CC1MA (Sub A)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm starting my journey in computer science, learning programming and problem-solving.
+I’m interested in Artificial Intelligence, Software Engineering, and how technology can be applied to sports, especially basketball.
+
+---
+
+## Currently Learning
+
+- C Programming
+- Git & GitHub
+- Programming Logic
+- Algorithms
+
+---
+
+## Goals for This Semester
+
+- Build my first academic project with clean and documented code
