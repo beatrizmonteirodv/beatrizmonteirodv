@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm starting my journey in computer science, learning programming and problem-solving.
+I'm starting my journey in bachelors in Artificial Intelligence, learning programming and problem-solving.
 I’m interested in Artificial Intelligence, Software Engineering, and how technology can be applied to sports, especially basketball.
 
 ---
