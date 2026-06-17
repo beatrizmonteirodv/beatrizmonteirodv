@@ -1,7 +1,7 @@
 # Hi, I'm Beatriz Monteiro.
 
-🎓 Computer Science student
-📚 1st semester – CC1MA (Sub A)
+🎓 Artificial Intellingence Student.
+📚 1st semester 
 
 ---
 
